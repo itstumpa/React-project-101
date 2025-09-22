@@ -1,5 +1,4 @@
 // - rafc
-// import App from '../App';
 import React, { use } from "react";
 import Country from "../Country/Country";
 import './Countries.css';

@@ -1,6 +1,5 @@
 import { Suspense } from "react";
 import "./App.css";
-// import Countries from "./components/countries/countries";
 import Countries from './components/Countries/Countries'
 
 const countriesPromise = fetch(
